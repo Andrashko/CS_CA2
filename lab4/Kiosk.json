@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "The Times Magazine",
+        "Kind": "Magazine",
+        "Count": 10,
+        "Price": 49.00
+    },
+    {
+        "Title": "The New York Times",
+        "Kind": "Newspaper",
+        "Count": 100,
+        "Price": 19.95
+    },
+    {
+        "Title": "The Washington Post",
+        "Kind": "Newspaper",
+        "Count": 75,
+        "Price": 14.99
+    },
+    {
+        "Title": "Vogue",
+        "Kind": "Magazine",
+        "Count": "50",
+        "Price": "29.5"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<papers>
+    <paper>
+        <title>
+            The Times Magazine
+        </title>
+        <kind>
+            magazine
+        </kind>
+        <count>
+            10
+        </count>
+        <price>
+            49,00
+        </price>
+    </paper>
+    <paper>
+        <title>
+            The New York Times
+        </title>
+        <kind>
+            newspaper
+        </kind>
+        <count>
+            100
+        </count>
+        <price>
+            19,95
+        </price>
+    </paper>
+    <paper>
+        <title>
+            The Washington Post
+        </title>
+        <kind>
+            newspaper
+        </kind>
+        <count>
+            75
+        </count>
+        <price>
+            14,99
+        </price>
+    </paper>
+    <paper>
+        <title>
+            Vogue
+        </title>
+        <kind>
+            magazine
+        </kind>
+        <count>
+            50
+        </count>
+        <price>
+            29,50
+        </price>
+    </paper>
+</papers>

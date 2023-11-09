@@ -1,8 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-
-class Program
+﻿class Program
 {
     public static void Main()
     {

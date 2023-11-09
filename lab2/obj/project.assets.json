@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\andra\\.nuget\\packages\\": {}
@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\csCa2\\lab2\\csCa2.csproj",
-      "projectName": "csCa2",
-      "projectPath": "C:\\Projects\\csCa2\\lab2\\csCa2.csproj",
+      "projectUniqueName": "C:\\Projects\\csCa2\\lab2\\lab2.csproj",
+      "projectName": "lab2",
+      "projectPath": "C:\\Projects\\csCa2\\lab2\\lab2.csproj",
       "packagesPath": "C:\\Users\\andra\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\csCa2\\lab2\\obj\\",
       "projectStyle": "PackageReference",
@@ -23,14 +23,14 @@
         "C:\\Users\\andra\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
