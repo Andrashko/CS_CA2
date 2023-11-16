@@ -1,3 +1,4 @@
-﻿/* Знайти час першого прийому  */
-SELECT MIN(Start)
+﻿/* порахувати тривалість кожного прийому*/
+
+SELECT DATEDIFF(MINUTE, StartTime , EndTime) AS ApointmanetTime
 FROM appointment;
